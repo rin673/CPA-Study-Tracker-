@@ -1,0 +1,12 @@
+{
+  "name": "cpa-app",
+  "version": "1.0.0",
+  "description": "公認会計士試験（短答式）の「講義消化」「3回転定着」「高速周回（忘却曲線・直前高速）」を完全自動化・可視化するための個人学習管理アプリケーション。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
